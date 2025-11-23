@@ -1,1 +1,1 @@
-# Cobalt-Nickel-Copper-Coupled-Cycle-Model-
+# Cobalt-Nickel-Copper-Coupled-Cycle-Model
