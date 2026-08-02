@@ -14,7 +14,7 @@
 
     - for nickel: S_1_3_2-MD_Nickel_Traditional.ipynb
 
-    - forcopper: S_1_3_3-MD_Copper_Traditional.ipynb
+    - for copper: S_1_3_3-MD_Copper_Traditional.ipynb
 
 - optimize battery chemistry market share: OP-Pyomo_Optimization.ipynb
 
