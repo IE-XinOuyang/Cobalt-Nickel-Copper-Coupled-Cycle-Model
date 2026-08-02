@@ -13,4 +13,4 @@ The repository contains the code for generating the main results of the paper "T
 - generate resultsfor Fig.2: Fig_2-Results.ipynb
   - for Fig.3: Fig_3-Results.ipynb
   - for Fig.4: Fig_4-Results.ipynb
-  - for Fig.5: Fig.5-Results.ipynb
+  - for Fig.5: Fig_5-Results.ipynb
