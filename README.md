@@ -10,13 +10,13 @@
 
   - for other traditional end-uses
 
-    - cobalt: S_1_3_1-MD_Cobalt_Traditional.ipynb
+    - for cobalt: S_1_3_1-MD_Cobalt_Traditional.ipynb
 
-    - nickel: S_1_3_2-MD_Nickel_Traditional.ipynb
+    - for nickel: S_1_3_2-MD_Nickel_Traditional.ipynb
 
-    - copper: S_1_3_3-MD_Copper_Traditional.ipynb
+    - forcopper: S_1_3_3-MD_Copper_Traditional.ipynb
 
-- optimate battery chemistry market share: OP-Pyomo_Optimization.ipynb
+- optimize battery chemistry market share: OP-Pyomo_Optimization.ipynb
 
 - generate results
 
