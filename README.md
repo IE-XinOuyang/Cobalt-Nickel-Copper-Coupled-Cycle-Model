@@ -1,5 +1,5 @@
 # Cobalt-Nickel-Copper-Coupled-Cycle-Model
-
+The repository contains the code for generating the main results of the paper "The closing window for cobalt-nickel-copper coordination in low-carbon energy transition".
 <img width="3607" height="2204" alt="6" src="https://github.com/user-attachments/assets/5ad382f2-3d1a-416f-a5c6-64e49888312c" />
 
 - calculate the material demand (inflow, outflow, stock)
