@@ -1,4 +1,7 @@
 # Cobalt-Nickel-Copper-Coupled-Cycle-Model
+
+<img width="3607" height="2204" alt="6" src="https://github.com/user-attachments/assets/5ad382f2-3d1a-416f-a5c6-64e49888312c" />
+
 - calculate the material demand (inflow, outflow, stock)
 
   - for ESS: S_1_1-MD_ESS.ipynb
