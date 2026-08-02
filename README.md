@@ -10,7 +10,8 @@ The repository contains the code for generating the main results of the paper "T
     - for nickel: MD_3_2-Traditional_Nickel.ipynb
     - for copper: MD_3_3-Traditional_Copper.ipynb
 - optimize battery chemistry market share: OP-Pyomo_Optimization.ipynb
-- generate resultsfor Fig.2: Fig_2-Results.ipynb
+- generate results
+  - for Fig.2: Fig_2-Results.ipynb
   - for Fig.3: Fig_3-Results.ipynb
   - for Fig.4: Fig_4-Results.ipynb
   - for Fig.5: Fig_5-Results.ipynb
