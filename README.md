@@ -9,11 +9,8 @@
     - for cobalt: S_1_3_1-MD_Cobalt_Traditional.ipynb
     - for nickel: S_1_3_2-MD_Nickel_Traditional.ipynb
     - for copper: S_1_3_3-MD_Copper_Traditional.ipynb
-
 - optimize battery chemistry market share: OP-Pyomo_Optimization.ipynb
-
-- generate results
-  - for Fig.2: Fig_2-Results.ipynb
+- generate resultsfor Fig.2: Fig_2-Results.ipynb
   - for Fig.3: Fig_3-Results.ipynb
   - for Fig.4: Fig_4-Results.ipynb
   - for Fig.5: Fig.5-Results.ipynb
